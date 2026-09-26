@@ -1,0 +1,26 @@
+<svg width="1600" height="700" viewBox="0 0 1600 700" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AAHARA logo">
+  <rect width="1600" height="700" fill="none"/>
+  <g transform="translate(80,15)">
+    <path d="M32 450 L 260 245 L 520 245 L 520 150 L 760 150 L 760 245 L 980 245 L 1220 450" fill="none" stroke="#D7A12B" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M20 470 C210 280, 420 400, 550 470 C650 520, 770 530, 930 465 C1030 420, 1130 335, 1240 470" fill="none" stroke="#D7A12B" stroke-width="16" stroke-linecap="round"/>
+    <path d="M140 420 C250 300, 380 370, 420 420" fill="none" stroke="#D7A12B" stroke-width="12" stroke-linecap="round"/>
+    <path d="M390 210 C430 130, 520 120, 610 200" fill="none" stroke="#D7A12B" stroke-width="12" stroke-linecap="round"/>
+    <path d="M550 470 C650 350, 840 360, 910 470 C980 580, 1130 570, 1200 470" fill="none" stroke="#D7A12B" stroke-width="14" stroke-linecap="round"/>
+    <g fill="#3B2A21" stroke="#D7A12B" stroke-width="10">
+      <circle cx="35" cy="470" r="25"/>
+      <circle cx="170" cy="420" r="26"/>
+      <circle cx="330" cy="430" r="26"/>
+      <circle cx="560" cy="440" r="28"/>
+      <circle cx="820" cy="450" r="27"/>
+      <circle cx="1015" cy="450" r="27"/>
+      <circle cx="1222" cy="470" r="25"/>
+    </g>
+    <g transform="translate(980,260)">
+      <path d="M0 80 C32 30, 72 10, 105 38 C136 64, 126 110, 92 126 C58 142, 2 136, 0 80 Z" fill="#6D805C"/>
+      <path d="M40 22 C67 0, 108 5, 125 32" fill="none" stroke="#5F6F52" stroke-width="9" stroke-linecap="round"/>
+      <path d="M120 20 C148 04, 188 15, 202 45" fill="none" stroke="#7DA35C" stroke-width="8" stroke-linecap="round"/>
+      <path d="M80 36 C110 18, 150 18, 165 40" fill="none" stroke="#8BB061" stroke-width="8" stroke-linecap="round"/>
+      <path d="M96 120 C120 80, 168 76, 204 112" fill="none" stroke="#6D805C" stroke-width="12" stroke-linecap="round"/>
+    </g>
+  </g>
+</svg>
